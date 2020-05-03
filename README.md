@@ -11,5 +11,7 @@ C++实现的自回归模型(AR)和自回归滑动平均模型的拟合(ARMA)。�
 
 
 注意：代码中头文件的引用不是很规范;本代码在Ubuntu下开发，使用g++。
-
-
+/*lidaxia00 add*/
+把Makefile和quick.bat放到code文件夹，然后make回车或者./quick.bat回车（windows下)。
+windows下貌似有bug。。。
+感谢作者xiaoran！
